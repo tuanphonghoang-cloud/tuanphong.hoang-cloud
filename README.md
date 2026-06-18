@@ -60,83 +60,54 @@ const phong = {
   <img src="https://github.com/user-attachments/assets/eba319d1-b689-48a6-87e5-a12b9c639395" width="100%" alt="Banner"/>
 </p>
 
-<!-- ============================ TECH STACK (bento cards) ============================ -->
+<!-- ============================ TECH STACK (bento + skillicons) ============================ -->
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>💻 Languages</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&perline=4"/>
+      <br/><sub><i>+ SQL</i></sub>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,express,nodejs,django,fastapi&perline=4"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🎨 Frontend</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind&perline=4"/>
+      <br/><sub><i>+ React Router</i></sub>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>📱 Mobile</h3>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=4"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🗄️ Database</h3>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Schema_Design-525252?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Migration-525252?style=for-the-badge"/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4"/>
+      <br/><sub><i>+ SQL Server · Schema Design · Migration</i></sub>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🤖 AI / ML</h3>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/AI_Chatbot-7E57C2?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Recommendation-00A67E?style=for-the-badge"/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&perline=4"/>
+      <br/><sub><i>+ NLP · Chatbot · Recommendation</i></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🚀 DevOps &amp; Cloud</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,linux&perline=4"/>
+      <br/><sub><i>+ Docker Hub · CI/CD</i></sub>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🧰 Tools</h3>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,notion&perline=4"/>
+      <br/><sub><i>+ Jira · Trello</i></sub>
     </td>
   </tr>
 </table>
