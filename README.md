@@ -1,210 +1,152 @@
-# Hi there 👋 I'm Hoang Tuan Phong
+<!-- ============================ GREETING ============================ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Tu%E1%BA%A5n+Phong+%F0%9F%91%8B" alt="Greeting"/>
+</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Final-year+IT+Student;Building+web+apps+%26+AI-integrated+systems;From+Vietnam+with+%E2%9D%A4%EF%B8%8F" alt="Bio"/>
+</div>
+
+<!-- ============================ BANNER 1 (your own image) ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=900&lines=Hoang+Tuan+Phong;Full-Stack+Developer;AI+Application+Builder;React+%7C+NestJS+%7C+Django;Building+Modern+Web+Applications" />
+  <img src="https://github.com/user-attachments/assets/afe81266-88b9-4222-b221-391ce1a15794" width="100%" alt="Banner"/>
 </p>
 
-<h3 align="center">
-🚀 Final-Year IT Student | Full-Stack Developer | AI Enthusiast
-</h3>
+<!-- ============================ SOCIALS ============================ -->
+<div align="center">
+  <a href="https://github.com/hoangtuanphong1a" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&label=Profile+Views&color=54A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=for-the-badge&color=54A6FF" />
-  <img src="https://img.shields.io/github/stars/hoangtuanphong1a?style=for-the-badge&color=54A6FF" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=flat-square&color=54A6FF&label=Profile+views"/>
+  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=flat-square&color=54A6FF&labelColor=181717&label=Followers"/>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- ============================ ABOUT ============================ -->
+## 👨‍💻 About Me
+
+- 🎓 Final-year IT student, focused on **Frontend Development** with React &amp; Next.js
+- 🤖 Building **AI-integrated systems** — chatbots, NLP, and personalized learning tools
+- 🌱 Currently sharpening **clean code, performance optimization, and system design**
+- 💬 Ask me about **React, TypeScript, NestJS, or Docker**
 
 ```typescript
 const phong = {
-  name: "Hoang Tuan Phong",
+  role: "Frontend Developer",
   location: "Vietnam 🇻🇳",
-  role: "Full-Stack Developer",
-
-  currentFocus: [
-    "AI-powered Applications",
-    "Full-Stack Development",
-    "System Design",
-    "Cloud Deployment"
-  ],
-
-  currentlyBuilding: [
-    "AI-Powered IELTS Learning Platform",
-    "Fast Deal B2C Platform",
-    "Public Vehicle Rental System"
-  ],
-
-  techStack: {
-    frontend: ["ReactJS", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["NestJS", "Spring Boot", "Django"],
-    database: ["MySQL", "PostgreSQL", "MongoDB"],
-    devops: ["Docker", "GitHub Actions"],
-    cloud: ["Firebase", "AWS"]
-  },
-
-  motto: "Build. Learn. Improve. Repeat."
+  building: ["B2C platform w/ AI chatbot", "AI-powered IELTS learning system"],
+  mindset: "Learn by shipping real projects.",
 };
 ```
 
----
-
-## 🏆 GitHub Achievements
-
+<!-- ============================ BANNER 2 (your own image) ============================ -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hoangtuanphong1a&theme=algolia&row=1&column=7"/>
+  <img src="https://github.com/user-attachments/assets/eba319d1-b689-48a6-87e5-a12b9c639395" width="100%" alt="Banner"/>
 </p>
 
----
+<!-- ============================ TECH STACK ============================ -->
+## 🛠️ Tech Stack
 
-## 💻 Tech Stack
+**Languages**
 
-### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+**Frontend**
 
-### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+**Backend &amp; DevOps**
 
-### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+**Databases &amp; Cloud**
 
-### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+**Tools**
 
-### DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+<!-- ============================ STATS ============================ -->
+## 📊 GitHub Stats
 
----
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&count_private=true&hide_border=true&title_color=54A6FF&icon_color=54A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&layout=compact&hide_border=true&title_color=54A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+</div>
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=8b949e"/>
+</div>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 AI-Powered IELTS Learning Platform
-
-* Django REST Framework
-* ReactJS
-* NLP Integration
-* Personalized Learning Path
-* AI Recommendation Engine
-
----
-
-### 🛒 Fast Deal B2C Platform
-
-* ReactJS + Django
-* Product Recommendation System
-* User Authentication
-* Admin Dashboard
-* Docker Deployment
-
----
-
-### 🚗 AI Public Vehicle Rental System
-
-* AI-based Vehicle Recommendation
-* Booking & Rental Management
-* Responsive Web Application
-* Full-Stack Architecture
-
----
-
-### ☕ Coffee Shop Management System
-
-* ReactJS
-* Spring Boot
-* MySQL
-* Role-based Access Control
-* Table Management
-
----
-
+<!-- ============================ GOALS ============================ -->
 ## 🎯 2026 Goals
 
-* [x] Build Full-Stack Applications
-* [x] Deploy Applications with Docker
-* [ ] AWS Cloud Practitioner
-* [ ] Advanced System Design
-* [ ] Open Source Contributions
-* [ ] Technical Blogging
-* [ ] Build SaaS Products
+```mermaid
+mindmap
+  root((2026))
+    Frontend Mastery
+      Advanced React & Next.js
+      Performance Optimization
+      Animation: Three.js / GSAP
+    Backend Foundations
+      NestJS & Node.js
+      API & Database Design
+    DevOps Basics
+      Docker & CI/CD
+    Growth
+      Open Source
+      Technical Writing
+```
 
----
+<!-- ============================ PROJECTS ============================ -->
+## 🏆 Featured Projects
 
-## 📈 Contribution Activity
+<div align="center">
+  <a href="https://github.com/hoangtuanphong1a/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project1&hide_border=true&title_color=54A6FF&text_color=c9d1d9&icon_color=54A6FF&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/hoangtuanphong1a/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project2&hide_border=true&title_color=54A6FF&text_color=c9d1d9&icon_color=54A6FF&bg_color=0d1117"/>
+  </a>
+</div>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=tokyo-night&hide_border=true"/>
-</p>
+<!-- ============================ SNAKE ============================ -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/hoangtuanphong1a">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-<h3 align="center">
-
-💡 "Code is not just about solving problems. It's about creating value for people."
-
-</h3>
-
-<h2 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h2>
-
-<h3 align="center">
-Let's build something amazing together 🚀
-</h3>
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+great+together!" alt="Footer"/>
+</div>
