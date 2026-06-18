@@ -8,22 +8,8 @@
 </div>
 
 <!-- ============================ GLOBE HERO (GIF) ============================ -->
-<!--
-  ⚠️ GIF chưa hiện vì src bên dưới đang là chữ placeholder, KHÔNG phải link ảnh.
-  Chọn 1 trong 2 cách để có link thật rồi thay vào src:
-
-  CÁCH A (giống cách 2 banner của bạn đang dùng — khuyên dùng):
-    1) Vào https://github.com/hoangtuanphong1a → tab Issues → New issue
-    2) Kéo-thả file globe-network.gif vào ô mô tả → đợi upload xong
-    3) GitHub tự sinh link dạng: https://github.com/user-attachments/assets/xxxxxxxx
-    4) Copy link đó, dán vào src bên dưới (KHÔNG cần bấm Submit issue)
-
-  CÁCH B (commit thẳng vào repo profile):
-    1) Đưa file globe-network.gif vào repo hoangtuanphong1a/hoangtuanphong1a
-    2) Đổi src bên dưới thành:  ./globe-network.gif
--->
 <p align="center">
-  <img src="DAN_LINK_GLOBE_GIF_VAO_DAY" width="100%" alt="Global Network"/>
+  <img src="https://github.com/user-attachments/assets/d5aed6d1-352b-4a1d-a4c9-64c5ed04a10e" width="100%" alt="Global Network"/>
 </p>
 
 <!-- ============================ SOCIALS ============================ -->
@@ -37,7 +23,7 @@
   <a href="https://dev.to/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hoangtuanphong1a@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -56,12 +42,13 @@
 - 🧩 Shipped projects with **Spring Boot, NestJS, Django, ReactJS &amp; Flutter**
 - 🤖 Into **AI integration** — chatbots, recommendation systems &amp; NLP
 - 🌱 Currently sharpening **clean architecture, system design &amp; deployment**
-- 💬 Ask me about **Backend, React, Docker, or AI integration**
+- 💬 Ask me about **Backend, React, Docker, Firebase, or AI integration**
 
 ```typescript
 const phong = {
   role: "Software Developer",
   location: "Vietnam 🇻🇳",
+  focus: ["Full-stack Web", "AI Integration", "Software Project Management"],
   stack: ["Spring Boot", "NestJS", "Django", "React", "Flutter"],
   building: ["B2C platform w/ AI chatbot", "AI-powered IELTS learning system"],
   mindset: "Learn by shipping real projects.",
@@ -73,80 +60,83 @@ const phong = {
   <img src="https://github.com/user-attachments/assets/eba319d1-b689-48a6-87e5-a12b9c639395" width="100%" alt="Banner"/>
 </p>
 
-<!-- ============================ TECH STACK (devicon logos) ============================ -->
+<!-- ============================ TECH STACK (bento cards) ============================ -->
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td align="right" width="120"><b>Languages</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Languages</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Backend</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📱 Mobile</h3>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🗄️ Database</h3>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Schema_Design-525252?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Migration-525252?style=for-the-badge"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 AI / ML</h3>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AI_Chatbot-7E57C2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Recommendation-00A67E?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Mobile</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 DevOps &amp; Cloud</h3>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Database</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI / ML</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-      &nbsp;<sub><i>· NLP · Recommendation Systems · Chatbot</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-      &nbsp;<sub><i>· GitHub Actions · CI/CD</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td>
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>&nbsp;
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/>
+    <td width="50%" valign="top" align="center">
+      <h3>🧰 Tools</h3>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -229,7 +219,7 @@ timeline
   <tr>
     <td width="50%" valign="top">
       <h3>✅ Task Management System</h3>
-      <p>Quản lý công việc: CRUD task, checklist, deadline, phân quyền &amp; gán thành viên.</p>
+      <p>Quản lý công việc: task CRUD, checklist, attachment, deadline, priority &amp; gán thành viên.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -243,6 +233,25 @@ timeline
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Facebook Clone (Flutter)</h3>
+      <p>Social app: post, story, like, comment, notification &amp; birthday events.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 Current Strengths</h3>
+      <p>
+        ✅ Full-stack Web (Spring Boot · NestJS · Django)<br/>
+        ✅ React Frontend &amp; Database Design<br/>
+        ✅ Docker &amp; Deployment · Firebase<br/>
+        ✅ AI Integration · Agile Workflow
       </p>
     </td>
   </tr>
