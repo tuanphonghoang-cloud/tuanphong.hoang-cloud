@@ -8,8 +8,20 @@
 </div>
 
 <!-- ============================ GLOBE HERO (GIF) ============================ -->
-<!-- 👉 Cách lấy link: lên GitHub → mở 1 Issue mới → kéo-thả file globe-network.gif vào ô comment
-     → GitHub tạo link dạng https://github.com/user-attachments/assets/... → dán link đó vào src bên dưới -->
+<!--
+  ⚠️ GIF chưa hiện vì src bên dưới đang là chữ placeholder, KHÔNG phải link ảnh.
+  Chọn 1 trong 2 cách để có link thật rồi thay vào src:
+
+  CÁCH A (giống cách 2 banner của bạn đang dùng — khuyên dùng):
+    1) Vào https://github.com/hoangtuanphong1a → tab Issues → New issue
+    2) Kéo-thả file globe-network.gif vào ô mô tả → đợi upload xong
+    3) GitHub tự sinh link dạng: https://github.com/user-attachments/assets/xxxxxxxx
+    4) Copy link đó, dán vào src bên dưới (KHÔNG cần bấm Submit issue)
+
+  CÁCH B (commit thẳng vào repo profile):
+    1) Đưa file globe-network.gif vào repo hoangtuanphong1a/hoangtuanphong1a
+    2) Đổi src bên dưới thành:  ./globe-network.gif
+-->
 <p align="center">
   <img src="DAN_LINK_GLOBE_GIF_VAO_DAY" width="100%" alt="Global Network"/>
 </p>
@@ -61,99 +73,135 @@ const phong = {
   <img src="https://github.com/user-attachments/assets/eba319d1-b689-48a6-87e5-a12b9c639395" width="100%" alt="Banner"/>
 </p>
 
-<!-- ============================ TECH STACK ============================ -->
+<!-- ============================ TECH STACK (devicon logos) ============================ -->
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td align="right"><b>Languages</b></td>
+    <td align="right" width="120"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Mobile</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
     </td>
   </tr>
   <tr>
     <td align="right"><b>AI / ML</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Recommendation_System-7E57C2?style=flat-square"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      &nbsp;<sub><i>· NLP · Recommendation Systems · Chatbot</i></sub>
     </td>
   </tr>
   <tr>
     <td align="right"><b>DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+      &nbsp;<sub><i>· GitHub Actions · CI/CD</i></sub>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>&nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/>
     </td>
   </tr>
 </table>
 
-<!-- ============================ STATS ============================ -->
-## 📊 GitHub Stats
+<!-- ============================ DASHBOARD ============================ -->
+## 📊 Software Engineering Dashboard
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&count_private=true&hide_border=true&title_color=54A6FF&icon_color=54A6FF&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&layout=compact&hide_border=true&title_color=54A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=8b949e"/>
 </div>
+
+<!-- ============================ TOP LANGUAGES ============================ -->
+## 💻 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=8b949e"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&layout=compact&hide_border=true&title_color=54A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangtuanphong1a&theme=github_dark"/>
 </div>
 
+<!-- ============================ TROPHIES ============================ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangtuanphong1a&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=54A6FF"/>
+</div>
+
+<!-- ============================ ENGINEERING PRINCIPLES ============================ -->
+## ⚙️ Engineering Principles
+
+> 🧼 **Clean over clever** — readable code beats clever one-liners.
+>
+> 🧩 **Design before code** — model the data and the flow first.
+>
+> 🚢 **Ship &amp; iterate** — small commits, fast feedback loops.
+>
+> 🔍 **Own the bug** — reproduce it, fix the root cause, add a guard.
+>
+> 📚 **Learn in public** — document, share, keep improving.
+
+<!-- ============================ DEVELOPMENT JOURNEY ============================ -->
+## 🧭 Development Journey
+
+```mermaid
+timeline
+    title My Development Journey
+    2022 : CS Fundamentals : Java · OOP
+    2023 : First Full-stack Apps : Spring Boot · React
+    2024 : Backend & DevOps : NestJS · Docker
+    2025 : AI Integration : Django · NLP · Chatbot
+    2026 : Graduation & Job-ready : Full-stack + AI
+```
+
 <!-- ============================ PROJECTS ============================ -->
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -220,11 +268,6 @@ mindmap
       Open Source
       Technical Writing
 ```
-
-<!-- ============================ SNAKE ============================ -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
